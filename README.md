@@ -8,7 +8,7 @@
   > 강의 : Inflearn | 나도코딩 | 파이썬 무료 강의 (활용편1) - 추억의 오락실 게임 만들기<br>
     목표 기간 : 2021/08/26 ~ 2021/08/31
 ### 🏃‍♂️How is it going?🏃‍♂️
-  - [x] 기본기 | [pygame_basics](https://github.com/pup-paw/Python-GameProgramming/tree/main/pygame_basics)
-  - [x] 프로젝트 | [pygame_project](https://github.com/pup-paw/Python-GameProgramming/tree/main/pygame_project)
+  > - [x] 기본기 | [pygame_basics](https://github.com/pup-paw/Python-GameProgramming/tree/main/pygame_basics)
+  > - [x] 프로젝트 | [pygame_project](https://github.com/pup-paw/Python-GameProgramming/tree/main/pygame_project)
 ### 🎖result🎖
   > 2021/08/27 완강!
